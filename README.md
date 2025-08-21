@@ -33,6 +33,7 @@ Este proyecto es un ejemplo de introducción a <strong>JavaScript</strong> orien
     <li>Información de arrays.</li>
     <li>Modificación de objetos.</li>
     <li>Acceso a propiedades en un array de objetos.</li>
+    <li>Agregar un elemento a un arreglo.</li>
   </ul>
 </ul>
 <h2>Ejemplos de uso</h2>
